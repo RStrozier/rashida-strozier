@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rashida-strozier/static/css/main.ae9ba14a.css",
+    "main.js": "/rashida-strozier/static/js/main.b531c857.js",
+    "static/media/background.png": "/rashida-strozier/static/media/background.78c28372f9abf657319d.png",
+    "index.html": "/rashida-strozier/index.html",
+    "main.ae9ba14a.css.map": "/rashida-strozier/static/css/main.ae9ba14a.css.map",
+    "main.b531c857.js.map": "/rashida-strozier/static/js/main.b531c857.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae9ba14a.css",
+    "static/js/main.b531c857.js"
+  ]
+}
